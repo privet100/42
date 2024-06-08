@@ -31,9 +31,9 @@
 * обучение бесплатное
 * France Travail (Pôle Emploi) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
   + платится в течение трёх лет
-  + 756€ в месяц если Вам 26 лет или больше на момент начала обучения
-  + 756€ в месяц если на вашем попечении есть ребёнок
-  + 528€ в месяц если Вам от 18 до 25 лет на момент начала обучения
+  + 528€ в месяц если Вам от 18 до 25 лет
+  + 756€ в месяц если Вам 26 лет или больше
+  + 756€ в месяц если на вашем попечении есть ребёнок, не важно сколько Вам лет
   + надо записаться в France Travail **ДО** начала обучения
   + кажется на налоговой декларации должен быть небольшой доход
   + если Вы работали во Франции до начала обучения, то кажется [пособие будет больше](https://www.service-public.fr/particuliers/vosdroits/F760#:~:text=009%2C82%20%E2%82%AC.-,Si%20vous%20avez%20eu%20une%20activit%C3%A9%20salari%C3%A9e%20ant%C3%A9rieure%20d'au,est%20de%20723%2C36%20%E2%82%AC.)
