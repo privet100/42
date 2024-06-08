@@ -26,8 +26,9 @@
     - нужно делать много заданий на си и сдать 4 экзамена
     - эти задания [здесь](https://github.com/privet100/piscine_42_school) (они всё время одни и те же)
     - принимают примерно 1 человека из 4
+    - если не примут, то пробовать ещё раз можно только через год
   + весь процесс поступления длится около года
-  + девочкам есть некоторые преимущества при отборе
+  + девочкам есть преимущества при отборе
 * обучение бесплатное
 * France Travail (Pôle Emploi) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
   + 528€ в месяц если Вам от 18 до 25 лет
