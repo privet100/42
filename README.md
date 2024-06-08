@@ -84,4 +84,4 @@
 
 ## Обратная связь <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
 * Если Вам нужна более подробная информация, [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
-* Если Вы можете дополнить или исправить эту информацию, [ахнапишите пожалуйста мне](mailto:stage.mongodb@gmail.com) или внесите изменения через github
+* Если Вы можете дополнить или исправить эту информацию, [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com) или внесите изменения через github
