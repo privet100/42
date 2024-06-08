@@ -30,7 +30,7 @@
 * France Travail может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html) 756€ в месяц в течение трёх лет
   + надо записаться в France Travail **ДО** начала обучения
   + на налоговой декларации должен быть небольшой доход
-  + если Вы работали во Франции до начала обучения, то это же самое пособие будет больше ([до 2000€](https://www.service-public.fr/particuliers/vosdroits/F760#:~:text=009%2C82%20%E2%82%AC.-,Si%20vous%20avez%20eu%20une%20activit%C3%A9%20salari%C3%A9e%20ant%C3%A9rieure%20d'au,est%20de%20723%2C36%20%E2%82%AC.)) 
+  + если Вы работали во Франции до начала обучения, то кажется [пособие будет больше](https://www.service-public.fr/particuliers/vosdroits/F760#:~:text=009%2C82%20%E2%82%AC.-,Si%20vous%20avez%20eu%20une%20activit%C3%A9%20salari%C3%A9e%20ant%C3%A9rieure%20d'au,est%20de%20723%2C36%20%E2%82%AC.)
 * можно получать стипендию Gen (Grande École du Numérique)
   + она выдаётся на таких же условиях и имеет такой же размер, как обычная студенческая стипендия через Crous
     - то есть до 600 евро в месяц, в зависимости от дохода родителей
