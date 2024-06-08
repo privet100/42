@@ -29,7 +29,7 @@
   + весь процесс поступления длится около года
   + девочкам есть некоторые преимущества при отборе
 * обучение бесплатное
-* France Travail может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
+* France Travail (Pôle Emploi) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
   + платится в течение трёх лет
   + 756€ в месяц если Вам 26 лет или больше на момент начала обучения
   + 756€ в месяц если на вашем попечении есть ребёнок
