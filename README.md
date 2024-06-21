@@ -45,7 +45,7 @@ _**Обратите внимание:**_
 * France Travail (Pôle Emploi, биржа тружа) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
   + 528€ в месяц если Вам от 18 до 25 лет, у вас на попечении нет детей и вы не работали перед обучением
   + 756€ в месяц если Вам 26 лет или больше
-  + 756€ в месяц если на вашем попечении есть ребёнок, независимо от возраста
+  + 756€ в месяц если на вашем попечении есть ребёнок, независимо от Вашего возраста
   + 756€ в месяц если Вы работали в течение 12 месяцев незадолго до начала обучения, независимо от возраста
   + платится в течение трёх лет
   + надо [записаться в France Travail](https://candidat.francetravail.fr/inscription-en-ligne/accueil) **ДО** начала обучения
