@@ -51,7 +51,7 @@ _**Обратите внимание:**_
   + надо [записаться в France Travail](https://candidat.francetravail.fr/inscription-en-ligne/accueil) **ДО** начала обучения
   + для получения пособия надо иметь право на работу во Франции
   + возможно на налоговой декларации не должено быть большого дохода (точно не знаю)
-  + [подробнее](https://www.service-public.fr/particuliers/vosdroits/F760#:~:text=009%2C82%20%E2%82%AC.-,Si%20vous%20avez%20eu%20une%20activit%C3%A9%20salari%C3%A9e%20ant%C3%A9rieure%20d'au,est%20de%20723%2C36%20%E2%82%AC.)
+  + [подробнее о пособии (на французском)](https://www.service-public.fr/particuliers/vosdroits/F760#:~:text=009%2C82%20%E2%82%AC.-,Si%20vous%20avez%20eu%20une%20activit%C3%A9%20salari%C3%A9e%20ant%C3%A9rieure%20d'au,est%20de%20723%2C36%20%E2%82%AC.)
   + France Travail оплачивает обучение и в других учебных заведениях по другим специальностям (я об этом почти ничего не знаю)
 * можно получать стипендию Gen (Grande École du Numérique)
   + она выдаётся на таких же условиях, как обычная студенческая стипендия через Crous
