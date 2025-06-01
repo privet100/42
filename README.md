@@ -45,7 +45,7 @@ _**Обратите внимание:**_
     - если не примут, то можно ещё раз пробовать через год
   + весь процесс от прохождения первого теста онлайн до начала учёбы может длиться до года
 * обучение бесплатное
-* France Travail (Pôle Emploi, биржа тружа) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
+* France Travail (Pôle Emploi, биржа труда) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
   + 528€ в месяц если Вам от 18 до 25 лет, у вас на попечении нет детей и вы не работали перед обучением
   + 756€ в месяц если Вам 26 лет или больше
   + 756€ в месяц если на вашем попечении есть ребёнок, независимо от Вашего возраста
@@ -56,7 +56,7 @@ _**Обратите внимание:**_
   + надо вовремя продлевать titre de séjour и вовремя передавать новый titre в France Travail, иначе пособие остановят
   + возможно на налоговой декларации не должено быть большого дохода (точно не знаю)
   + [подробнее о пособии (на французском)](https://www.service-public.fr/particuliers/vosdroits/F760#:~:text=009%2C82%20%E2%82%AC.-,Si%20vous%20avez%20eu%20une%20activit%C3%A9%20salari%C3%A9e%20ant%C3%A9rieure%20d'au,est%20de%20723%2C36%20%E2%82%AC.)
-  + France Travail оплачивает обучение и в других учебных заведениях по другим специальностям (я об этом почти ничего не знаю)
+  + France Travail аналогичным образом может оплачивать обучение и в других учебных заведениях, но я об этом почти ничего не знаю
 * можно получать стипендию Gen (Grande École du Numérique)
   + она выдаётся на таких же условиях, как обычная студенческая стипендия через Crous
   + она имеет такой же размер, как обычная студенческая стипендия Crous (до 600€ в месяц, в зависимости от дохода родителей)
