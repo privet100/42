@@ -62,6 +62,7 @@ _**Обратите внимание:**_
   + если достаточно быстро продвигаться с проектами, то начать alternance можно через год
   + alternance рассчитана на людей до 30 лет, с некоторыми дополнительными условиями до 35 лет
     - после 35 кажется можно работать по аналогичной схеме, только называтся contrat profesiionalisation
+  + надо иметь право на работу во Франции 
 
 ## Для тех, кто живёт во Франции
 * France Travail (Pôle Emploi, биржа труда) может платить пособие [La Rémunération des Formations de France Travail (RFFT)](https://www.francetravail.fr/candidat/en-formation/les-dispositifs/la-remuneration-des-formations-d.html)
